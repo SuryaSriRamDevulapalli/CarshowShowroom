@@ -7,8 +7,6 @@
 <meta charset="ISO-8859-1">
 <title>Welcome to Porche 911 cars</title>
 </head>
-<body>
-
 <style>
 
 body{
@@ -17,13 +15,47 @@ body{
   background-attachment: fixed;
   background-size: 100% 100%;
 }
-</style>)
 
-<style>
 table, th, td{
 border: 2px solid red;
 }
+
+        header {
+            background-color: brown;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            font-weight: bold;
+        }   
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+
 </style>
+<body>
+
+<header id="header">
+				<a href="index.html" class="title" style="color: white;" >Home Page</a>
+				<nav>
+					<ul>
+						<li><a href="ScorpioN.jsp">Scorpio N</a></li>
+						<li><a href="XUV700.jsp" class="active">XUV 700</a></li>
+						<li><a href="Thar.jsp" class="active">Thar</a></li>
+						<li><a href="Scorpio.jsp" class="active">Scorpio Classic</a></li>
+                        <li><a href="Porsche 911.jsp">porsche 911</a></li>
+                        <li><a href="PorscheMacanTurbo.jsp">PorscheMacanTurbo</a></li>
+
+					</ul>
+				</nav>
+			</header>
+
 
 <div>
 <h1 style = "text-align: right; font-weight:italic">Porsche 911</h1>
