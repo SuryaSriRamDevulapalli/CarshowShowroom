@@ -67,8 +67,9 @@
 						<li><a href="XUV700.jsp" class="active">XUV 700</a></li>
 						<li><a href="Thar.jsp" class="active">Thar</a></li>
 						<li><a href="Scorpio.jsp" class="active">Scorpio Classic</a></li>
-                        <li><a href="Porsche 911.jsp">porsche 911</a></li>
-                        <li><a href="PorscheMacanTurbo.jsp">PorscheMacanTurbo</a></li>
+                        <li><a href="Morazzo.jsp">Morazzoo</a></li>
+                        <li><a href="XUV400.jsp">XUV 400</a></li>
+                         <li><a href="KUV100.jsp">KUV 100</a></li>
 
 					</ul>
 				</nav>
