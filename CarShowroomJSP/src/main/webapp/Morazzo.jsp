@@ -7,6 +7,21 @@
 <title>Morazzo</title>
 </head>
 <body>
+<header id="header">
+				<a href="index.html" class="title" style="color: white;" >Home Page</a>
+				<nav>
+					<ul>
+						<li><a href="ScorpioN.jsp">Scorpio N</a></li>
+						<li><a href="XUV700.jsp" class="active">XUV 700</a></li>
+						<li><a href="Thar.jsp" class="active">Thar</a></li>
+						<li><a href="Scorpio.jsp" class="active">Scorpio Classic</a></li>
+                        <li><a href="Morazzo.jsp">Morazzoo</a></li>
+                        <li><a href="XUV400.jsp">XUV 400</a></li>
+                         <li><a href="KUV100.jsp">KUV 100</a></li>
+
+					</ul>
+				</nav>
+			</header>
 <h1>Checkout Morazzo</h1>
 <br>
 <br>
@@ -19,12 +34,28 @@ background-attachment: fixed;
 background-size: 100%100%;
 color: white;
 }
-</style>
-<style>
+
 table, th, td {
   border: 1px solid white;
   text: white;
-}</style>
+}
+header {
+            background-color: brown;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            font-weight: bold;
+        }   
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+</style>
 <p>Awarded as India's safest MPV<br>
 Journey in comfort with industry-first Surround Cool Technology, exquisite interiors, longest rear suspension travel, and the quietest cabin in an MPV.<br>
 With a standard warranty of 3 years/1 00 000 km and a low service cost of only 58 Paise/ km, owning the Marazzo is easy on the pocket.
