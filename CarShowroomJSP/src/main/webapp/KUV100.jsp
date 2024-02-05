@@ -59,10 +59,13 @@ header {
 <img src ='https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/KUV-100-NXT/7786/1675753400443/front-left-side-47.jpg' align = "right" width = "500" height = "350">
 
 <table>
-<th>Variants
-<th> Base Price
-<th>Transmission
 <tr>
+<th>Variants</th>
+<th> Base Price</th>
+<th>Transmission</th>
+</tr>
+<tr>
+
 <td>KUV 100 NXT Trip
 <td>5,16,000/-
 <td>Manual
